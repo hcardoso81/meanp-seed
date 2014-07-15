@@ -1,5 +1,5 @@
 'use strict';
-/*test*/
+/*test non conflict*/
 angular.module('meanp', [
   'ngCookies',
   'ngResource',
